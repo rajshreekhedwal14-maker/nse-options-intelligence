@@ -1,2 +1,6 @@
-# nse-options-intelligence
-NSE Options Ratio Spread Intelligence System — Tracking real derivatives trades on Indian equity options with P&amp;L analysis, delta calculations, and strategy performance metrics.
+# 🇮🇳 NSE Options Intelligence
+### End-to-End Trading Analytics | April 2026 | Business Analytics Portfolio
+
+> End-to-end options trading analytics — SQL, Python, ML on 117 live NSE trades
+
+---
